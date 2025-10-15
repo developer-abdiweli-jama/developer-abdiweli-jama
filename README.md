@@ -1,3 +1,10 @@
+<!-- Banner -->
+<p align="center">
+  <a href="https://linkedin.com/in/abdiweli-jamac-60ab44207">
+    <img src="assets/images/github-header-banner (2).png" alt="Abdiweli Jama | LinkedIn" width="100%">
+  </a>
+</p>
+
 # 💫 About Me:
 👋 Hi, I’m @developer-abdiweli-jama<br>👀 I’m interested in system design, web & mobile development, cloud computing, and building real-world software solutions<br>🌱 I’m currently learning Software and Computing Engineering at university<br>💞️ I’m looking to collaborate on open-source projects, web applications, and system development projects<br>📫 How to reach me: abdiwelijama@gmail.com or via LinkedIn (@abdiweli-jama)<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I’m the founder of HIRGAL NEXUS and passionate about building tech that solves real problems
 
