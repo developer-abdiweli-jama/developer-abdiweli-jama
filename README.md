@@ -1,38 +1,111 @@
-<!-- Banner -->
-<p align="center">
-  <a href="https://linkedin.com/in/abdiweli-jamac-60ab44207">
-    <img src="assets/images/github-header-banner (2).png" alt="Abdiweli Jama | LinkedIn" width="100%">
-  </a>
-</p>
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0f172a&text=Abdiweli%20Jama&fontSize=85&fontColor=4F8CC9&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Cloud%20Developer%20%7C%20System%20Designer&descAlignY=58"
+    width="100%"
+    alt="Header Banner"
+  />
+  <br>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Engineering+Better+Systems;Building+HIRGAL+NEXUS;Cloud+Computing+%7C+Distributed+Systems;Always+Improving,+Always+Learning"
+    alt="Typing Intro"
+  />
+  <p>
+    <img src="https://img.shields.io/badge/Status-Building_the_Future-4F8CC9?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Focus-System_Design-22c55e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Project-HIRGAL_NEXUS-orange?style=for-the-badge" />
+  </p>
+</div>
 
-<p align="center">
-  <img src="assets/images/Coding.gif" alt="Coding animation" width="400px">
-</p>
+## 👨‍💻 About Me
+```python
+class Abdiweli:
+    def __init__(self):
+        self.name = "Abdiweli Jama"
+        self.role = "Software Engineering Student"
+        self.fields = ["Cloud Architecture", "System Design", "Web Development"]
+        self.project = "HIRGAL NEXUS"
+        self.passion = "Building useful and scalable technology"
+    def introduce(self):
+        return f"Hi, I'm {self.name}. Always learning. Always building."
+me = Abdiweli()
+me.introduce()
+```
 
-# 💫 About Me:
-👋 Hi, I’m @developer-abdiweli-jama<br>👀 I’m interested in system design, web & mobile development, cloud computing, and building real-world software solutions<br>🌱 I’m currently learning Software and Computing Engineering at university<br>💞️ I’m looking to collaborate on open-source projects, web applications, and system development projects<br>📫 How to reach me: abdiwelijama@gmail.com or via LinkedIn (@abdiweli-jama)<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I’m the founder of HIRGAL NEXUS and passionate about building tech that solves real problems
+## 🛠 Tech Stack
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-191970?style=flat&logo=electron&logoColor=white)
 
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/AbdiweliJama01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdiwelijama01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abdiweli-jamac-60ab44207) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abdiweli_jama1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdiwelijamac@gmail.com) 
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=developer-abdiweli-jama&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=developer-abdiweli-jama&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-abdiweli-jama&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### AI & Data Tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Sklearn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=developer-abdiweli-jama&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 📈 GitHub Analytics
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=developer-abdiweli-jama&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-abdiweli-jama&layout=compact&theme=github_dark&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-abdiweli-jama&theme=github-dark&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=developer-abdiweli-jama&theme=github-dark&hide_border=true&area=true" />
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 🏆 Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=developer-abdiweli-jama&theme=github_dark&no-frame=true&margin-w=10" />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=developer-abdiweli-jama&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🚀 Featured Projects
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=developer-abdiweli-jama&repo=hospital-management-system&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=developer-abdiweli-jama&repo=mern-car-rental&theme=github_dark&hide_border=true" />
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=developer-abdiweli-jama&icon=10&color=1)](https://visitcount.itsvg.in)
+## 📫 Connect With Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/abdiweli-jamac-60ab44207"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abdiwelijama@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/abdiweli_jama1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.facebook.com/AbdiweliJama01"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/abdiwelijama01"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ Current Focus
+```json
+{
+  "status": "Building the future",
+  "project": "HIRGAL NEXUS",
+  "learning": ["Cloud Architecture", "System Design", "AI/ML"],
+  "goal": "Create meaningful and scalable tech",
+  "collaboration": "Open to ideas and open-source work"
+}
+```
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=developer-abdiweli-jama&color=4F8CC9&style=flat-square" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <br>
+  <i>“Keep learning. Keep building.”</i>
+</div>
